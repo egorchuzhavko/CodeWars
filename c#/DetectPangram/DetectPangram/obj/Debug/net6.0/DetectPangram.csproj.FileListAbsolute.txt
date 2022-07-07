@@ -1,0 +1,15 @@
+D:\codewars\c#\DetectPangram\DetectPangram\bin\Debug\net6.0\DetectPangram.exe
+D:\codewars\c#\DetectPangram\DetectPangram\bin\Debug\net6.0\DetectPangram.deps.json
+D:\codewars\c#\DetectPangram\DetectPangram\bin\Debug\net6.0\DetectPangram.runtimeconfig.json
+D:\codewars\c#\DetectPangram\DetectPangram\bin\Debug\net6.0\DetectPangram.dll
+D:\codewars\c#\DetectPangram\DetectPangram\bin\Debug\net6.0\DetectPangram.pdb
+D:\codewars\c#\DetectPangram\DetectPangram\obj\Debug\net6.0\DetectPangram.csproj.AssemblyReference.cache
+D:\codewars\c#\DetectPangram\DetectPangram\obj\Debug\net6.0\DetectPangram.GeneratedMSBuildEditorConfig.editorconfig
+D:\codewars\c#\DetectPangram\DetectPangram\obj\Debug\net6.0\DetectPangram.AssemblyInfoInputs.cache
+D:\codewars\c#\DetectPangram\DetectPangram\obj\Debug\net6.0\DetectPangram.AssemblyInfo.cs
+D:\codewars\c#\DetectPangram\DetectPangram\obj\Debug\net6.0\DetectPangram.csproj.CoreCompileInputs.cache
+D:\codewars\c#\DetectPangram\DetectPangram\obj\Debug\net6.0\DetectPangram.dll
+D:\codewars\c#\DetectPangram\DetectPangram\obj\Debug\net6.0\refint\DetectPangram.dll
+D:\codewars\c#\DetectPangram\DetectPangram\obj\Debug\net6.0\DetectPangram.pdb
+D:\codewars\c#\DetectPangram\DetectPangram\obj\Debug\net6.0\DetectPangram.genruntimeconfig.cache
+D:\codewars\c#\DetectPangram\DetectPangram\obj\Debug\net6.0\ref\DetectPangram.dll
