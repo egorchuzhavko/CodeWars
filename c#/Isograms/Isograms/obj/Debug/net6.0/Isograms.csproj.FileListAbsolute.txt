@@ -1,0 +1,15 @@
+D:\codewars\c#\Isograms\Isograms\bin\Debug\net6.0\Isograms.exe
+D:\codewars\c#\Isograms\Isograms\bin\Debug\net6.0\Isograms.deps.json
+D:\codewars\c#\Isograms\Isograms\bin\Debug\net6.0\Isograms.runtimeconfig.json
+D:\codewars\c#\Isograms\Isograms\bin\Debug\net6.0\Isograms.dll
+D:\codewars\c#\Isograms\Isograms\bin\Debug\net6.0\Isograms.pdb
+D:\codewars\c#\Isograms\Isograms\obj\Debug\net6.0\Isograms.csproj.AssemblyReference.cache
+D:\codewars\c#\Isograms\Isograms\obj\Debug\net6.0\Isograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\codewars\c#\Isograms\Isograms\obj\Debug\net6.0\Isograms.AssemblyInfoInputs.cache
+D:\codewars\c#\Isograms\Isograms\obj\Debug\net6.0\Isograms.AssemblyInfo.cs
+D:\codewars\c#\Isograms\Isograms\obj\Debug\net6.0\Isograms.csproj.CoreCompileInputs.cache
+D:\codewars\c#\Isograms\Isograms\obj\Debug\net6.0\Isograms.dll
+D:\codewars\c#\Isograms\Isograms\obj\Debug\net6.0\refint\Isograms.dll
+D:\codewars\c#\Isograms\Isograms\obj\Debug\net6.0\Isograms.pdb
+D:\codewars\c#\Isograms\Isograms\obj\Debug\net6.0\Isograms.genruntimeconfig.cache
+D:\codewars\c#\Isograms\Isograms\obj\Debug\net6.0\ref\Isograms.dll
