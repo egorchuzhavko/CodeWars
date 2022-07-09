@@ -1,0 +1,15 @@
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\bin\Debug\net6.0\Beginner Series 3 Sum of Numbers.exe
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\bin\Debug\net6.0\Beginner Series 3 Sum of Numbers.deps.json
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\bin\Debug\net6.0\Beginner Series 3 Sum of Numbers.runtimeconfig.json
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\bin\Debug\net6.0\Beginner Series 3 Sum of Numbers.dll
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\bin\Debug\net6.0\Beginner Series 3 Sum of Numbers.pdb
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\obj\Debug\net6.0\Beginner Series 3 Sum of Numbers.csproj.AssemblyReference.cache
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\obj\Debug\net6.0\Beginner Series 3 Sum of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\obj\Debug\net6.0\Beginner Series 3 Sum of Numbers.AssemblyInfoInputs.cache
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\obj\Debug\net6.0\Beginner Series 3 Sum of Numbers.AssemblyInfo.cs
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\obj\Debug\net6.0\Beginner Series 3 Sum of Numbers.csproj.CoreCompileInputs.cache
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\obj\Debug\net6.0\Beginner Series 3 Sum of Numbers.dll
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\obj\Debug\net6.0\refint\Beginner Series 3 Sum of Numbers.dll
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\obj\Debug\net6.0\Beginner Series 3 Sum of Numbers.pdb
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\obj\Debug\net6.0\Beginner Series 3 Sum of Numbers.genruntimeconfig.cache
+D:\codewars\c#\Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers\obj\Debug\net6.0\ref\Beginner Series 3 Sum of Numbers.dll

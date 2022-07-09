@@ -1,0 +1,15 @@
+D:\codewars\c#\Are they the same\Are they the same\bin\Debug\net6.0\Are they the same.exe
+D:\codewars\c#\Are they the same\Are they the same\bin\Debug\net6.0\Are they the same.deps.json
+D:\codewars\c#\Are they the same\Are they the same\bin\Debug\net6.0\Are they the same.runtimeconfig.json
+D:\codewars\c#\Are they the same\Are they the same\bin\Debug\net6.0\Are they the same.dll
+D:\codewars\c#\Are they the same\Are they the same\bin\Debug\net6.0\Are they the same.pdb
+D:\codewars\c#\Are they the same\Are they the same\obj\Debug\net6.0\Are they the same.csproj.AssemblyReference.cache
+D:\codewars\c#\Are they the same\Are they the same\obj\Debug\net6.0\Are they the same.GeneratedMSBuildEditorConfig.editorconfig
+D:\codewars\c#\Are they the same\Are they the same\obj\Debug\net6.0\Are they the same.AssemblyInfoInputs.cache
+D:\codewars\c#\Are they the same\Are they the same\obj\Debug\net6.0\Are they the same.AssemblyInfo.cs
+D:\codewars\c#\Are they the same\Are they the same\obj\Debug\net6.0\Are they the same.csproj.CoreCompileInputs.cache
+D:\codewars\c#\Are they the same\Are they the same\obj\Debug\net6.0\Are they the same.dll
+D:\codewars\c#\Are they the same\Are they the same\obj\Debug\net6.0\refint\Are they the same.dll
+D:\codewars\c#\Are they the same\Are they the same\obj\Debug\net6.0\Are they the same.pdb
+D:\codewars\c#\Are they the same\Are they the same\obj\Debug\net6.0\Are they the same.genruntimeconfig.cache
+D:\codewars\c#\Are they the same\Are they the same\obj\Debug\net6.0\ref\Are they the same.dll
